@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Taal Roodo</string>
+    <string name="accessibility_service_description">Service de protection intra-application Taal Roodo TR-Shield pour l\'interception de contenus explicites.</string>
+    <string name="vpn_service_description">Filtrage DNS local pour la protection contre les domaines explicites.</string>
+</resources>
